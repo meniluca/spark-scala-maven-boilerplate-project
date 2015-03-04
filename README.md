@@ -1,5 +1,7 @@
 ### Instructions:
 
+[Follow this article to find more detailed instructions.](https://nosqlnocry.wordpress.com/2015/02/27/how-to-build-a-spark-fat-jar-in-scala-and-submit-a-job/)
+
 Modify the class "MainExample.scala" writing your Spark code, then compile the project with the command:
 
 ```mvn clean package```
